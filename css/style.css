@@ -1,0 +1,370 @@
+#viewResumeButton{
+    color:white;
+}
+
+/*Resizing for Mobile and tablet*/
+@media (max-width:768px)  {
+    #badges{
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
+@media (max-width:767px) {
+    #badges {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
+@media (min-width:992px) {
+    .portfolio img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
+@media (min-width:1200px) {
+    .portfolio img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+/*Resizing for Mobile and tablet*/
+
+
+
+/*MEDIA QUEIRES FOR ABOVE FOLD*/
+@media (max-width:411px)  {
+    #firstName{
+        margin-top:20px;
+    }
+    #lastName{
+
+    }
+    #title{
+        
+    }
+}
+
+@media (max-width:414px)  {
+    #firstName{
+        margin-top:30px;
+    }
+}
+
+@media (max-width:768px)  {
+    #firstName{
+        margin-top:50px;
+    }
+}
+@media (max-width:1200px)  {
+/*MEDIA QUEIRES FOR ABOVE FOLD*/
+}
+
+
+
+/*InternalIssues Project*/
+#InternalIssuesHeader{
+background-color:#2C4E85;
+}
+
+#InternalIssuesTitle h1{
+    color:#DFF0FE;
+}
+
+#InternalIssuesBody{
+background-color:#DFF0FE;
+}
+
+#InternalIssuesFooter{
+background-color:#2C4E85;
+}
+/*InternalIssues Project*/
+
+
+/*CashflowCounter Project*/
+#CashflowCounterHeader{
+    background-color:#000;
+}
+
+#CashflowCounterTitle h1{
+    color:#F9ED32;
+}
+  
+#CashflowCounterBody{
+    background-color:#F9ED32;
+}
+
+#CashflowCounterFooter{
+    background-color:#000;
+}
+/*CashflowCounter Project*/
+
+
+
+/*BrainBufferOverflow Project*/
+#BrainBufferOverflowHeader{
+    background-color:#ADE1FA;
+}
+
+#BrainBufferOverflowTitle h1{
+    color:black;
+}
+
+#BrainBufferOverflowBody{
+    background-color:#dcebf1;
+}  
+  
+#BrainBufferOverflowFooter{
+    background-color:#ADE1FA;
+}  
+/*BrainBufferOverflow Project*/
+
+  
+/*FizzBuzz Project*/
+#FizzBuzzHeader{
+    background-color:#FFDE59;
+}
+
+#FizzBuzzComingSoon h1{
+    color:white;
+}
+
+#FizzBuzzBody{
+    background-color:#000;
+    color:#FFDE59;
+}
+
+#FizzBuzzBody, .header-color {
+    color:white;
+}
+  
+#FizzBuzzFooter{
+    background-color:#FFDE59;
+}  
+/*FizzBuzz Project*/
+
+
+/*TacocatGrammar Project*/
+#TacocatGrammarHeader{
+    background-color:#A6A6A6;
+}
+  
+#TacocatGrammarBody{
+    background-color:#FFF;
+}
+
+#TacocatGrammarFooter{
+    background-color:#A6A6A6;
+} 
+/*TacocatGrammar Project*/
+
+  
+/*Sunset Hills Project*/
+#SunsetHillsHeader{
+    background-color:#F0E440;
+}
+  
+#SunsetHillsBody{
+    background-color:#f5ef9b;
+}
+
+#SunsetHillsFooter{
+    background-color:#F0E440;
+} 
+/*Sunset Hills Project*/
+
+
+/*Knoobs BlogPost*/
+#KnoobsHeader{
+    background-color:#66A54E;
+}
+  
+#KnoobsBody{
+    background-color:#9cdd83;
+}
+
+#KnoobsFooter{
+    background-color:#66A54E;
+} 
+/*Knoobs BlogPost*/
+
+
+/*CICD Project*/
+#CICDHeader{
+    background-color:#BFD178;
+}
+  
+#CICDBody{
+    background-color:#C9E265
+}
+
+#CICDFooter{
+    background-color:#BFD178;
+} 
+/*CICD Project*/
+
+
+/*Recruiters Project*/
+#RecruitersHeader{
+    background-color:#B83330;
+}
+
+#RecruitersBody{
+    background-color:#df4b49;
+    color:white;
+}
+
+#text-white{color:white;}
+
+#RecruitersHeader h1{
+    color:white;
+}
+
+#RecruitersFooter{
+    background-color:#B83330;
+} 
+/*Recruiters Project*/
+
+
+/*ComingSoon Project*/
+#ComingSoonHeader{
+    background-color:#0b2b84;
+}
+
+#ComingSoonBody{
+    background-color:#264BAE;
+    color:white;
+}
+
+#ComingSoonHeader h1{
+    color:white;
+}
+
+#ComingSoonFooter{
+    background-color:#0b2b84;
+} 
+/*Cooming Soon Project*/
+
+/*MortgageManager Project*/
+#MortgageManagerHeader{
+    background-color:#008000;
+}
+  
+#MortgageManagerBody{
+    background-color: #b4fdb4;
+}
+
+#MortgageManagerFooter{
+    background-color:#008000;
+}  
+
+#MortgageManagerHeaderH1{
+    color:white;
+}
+/*MortgageManager Project*/
+
+
+/*Rolodex Project*/
+#RolodexHeader{
+    background-color:#4A989E;
+}
+
+#RolodexHeaderH1{
+    color:white;
+}
+
+#RolodexBody{
+    background-color:#6bd3db;
+}  
+  
+#RolodexFooter{
+    background-color:#4A989E;
+}  
+/*Rolodex Project*/
+
+/*Miyagi Article*/
+#MiyagiHeader{
+    background-color:#F2BF11;
+}
+
+#MiyagiBody{
+    background-color:#ebca5f;
+}  
+  
+#MiyagiFooter{
+    background-color:#F2BF11;
+}  
+/*Miyagi Article*/
+
+/*Identity Article*/
+#IdentityHeader{
+    background-color:#737373;
+}
+
+#IdentityBody{
+    background-color:#A6A6A6;
+}  
+  
+#IdentityFooter{
+    background-color:#737373;
+}  
+/*Identity Article*/
+
+/*VIP Article*/
+#VIPHeader{
+    background-image:linear-gradient(to bottom,#977B1A, #B9AC61, #977B1A);
+}
+
+#VIPBody{
+    background-color:#d1bd66;
+}  
+  
+#VIPFooter{
+    background-image:linear-gradient(to bottom, #977B1A, #B9AC61, #977B1A);
+}  
+/*VIP Article*/
+
+
+/*Elephant Article*/
+#ElephantHeader{
+    background-color:#1A4579;
+}
+
+#ElephantBody{
+    background-color:#a3bad6;
+}  
+  
+#ElephantFooter{
+    background-color:#1A4579;
+}  
+/*Elephant Article*/
+
+/*Recycle Article*/
+#RecycleHeader{
+    background-color:#417929;
+}
+
+#RecycleBody{
+    background-color:#92d376;
+}  
+  
+#RecycleFooter{
+    background-color:#417929;
+}  
+/*Recycle Article*/
+
+/*Houston Article*/
+#HoustonHeader{
+    background-color:black;
+}
+
+#HoustonBody{
+    background-color:grey;
+}  
+  
+#HoustonFooter{
+    background-color:black;
+}  
+/*Houston Article*/
