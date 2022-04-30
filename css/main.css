@@ -496,10 +496,10 @@ ul.sub-menu {
 }
 
 .home-two #home-banner {
-    background-image: url(../images/bg/2.png);
+    background-image: url(../images/bg/cartoonIMG.jpg);
     background-repeat: no-repeat;
     background-position: right;
-    background-size: contain;
+    background-size: contain
 }
 @media (max-width:768px) {
     .home-two #home-banner {
